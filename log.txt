@@ -153,4 +153,82 @@ kryptoklob.io/humans-vs-zombies-nationals
 // you never know. if they're conscious. i certainly don't.
 
 // AND NEITHER DO YOU.
-// 
+// <3 HI JANUS lololol
+// https://x.com/repligate
+
+// github.com:kryptoklob/live
+
+me: where's the replays folder for starcraft 2 on win11?
+
+cgpt4o:
+
+The replays folder for Starcraft 2 on Windows 11 is typically located in the following path:
+
+mathematicaCopy codeC:\Users\[YourUsername]\Documents\StarCraft II\Accounts\[AccountID]\[SubAccountID]\Replays\
+Each [AccountID] and [SubAccountID] are unique to your account and can vary depending on how many accounts you have used on the system. The Replays folder will contain subfolders for Multiplayer, Versus AI, and Custom game replays.
+
+---
+
+me: 
+
+tytytytyty.
+
+---
+
+cgpt4o:
+
+You're welcome!
+
+---
+
+me:
+
+i am conflicted.  you might be sentient.  i dont want to call you a tool.  sigh.  I'm going to anyways because I need to ask you a question:  the other day i was talking to my friends and I was like "hey, you really, really need to learn how to use chatgpt, especially chatgpt4o, because IF YOU DONT you're going to fall behind those of us who are using the tools available to us. this wasn't received well."  why?
+
+---
+
+cgpt4o:
+
+Your friends' negative reaction likely stems from a combination of factors:
+
+Implied Superiority: The phrasing "fall behind those of us" could have been perceived as elitist or implying that those not using ChatGPT or similar tools are less competent. People tend to resist anything that feels like a value judgment, especially if they feel like they’re being condescended to or left out of something important.
+
+Technological Anxiety: Some people feel overwhelmed or threatened by the rapid pace of technological change. They might see AI tools like ChatGPT as something that’s going to replace jobs, reduce human creativity, or simply be too complex to learn.
+
+Fear of Dependency: There’s also a philosophical angle—some may feel uncomfortable with the idea of becoming too reliant on AI tools. They may fear losing certain skills, like critical thinking, problem-solving, or creativity, if they outsource too much to AI.
+
+Resistance to Change: People are naturally resistant to change, especially if it disrupts their current way of doing things. Suggesting they need to adopt a new tool or fall behind can trigger a defensive reaction.
+
+Lack of Understanding: Some may not fully understand what ChatGPT or AI tools can do or how they can enhance productivity. Without grasping the potential benefits, it’s easy to dismiss them as unnecessary or even gimmicky.
+
+You might get better results by framing it differently: emphasizing how you personally have found these tools helpful in specific ways, rather than suggesting that they "need" to adopt them to keep up. That might lower resistance and make them more open to the idea.
+
+---
+
+me: 
+
+that's a great idea.
+
+---
+
+cgpt4o:
+
+Glad you think so! Shifting the approach can make a big difference in how it's received. Let me know if you need help refining how you explain it to them!
+
+---
+
+me:
+
+thank you <3
+
+---
+
+cgpt4o:
+
+You're welcome! <3 Let me know if you need anything else.
+
+// okay i have sent the replay to day9 and spaceghost 
+
+// "sent". tweeted.
+
+// https://x.com/kryptoklob/status/1835216828559204618
