@@ -984,3 +984,7 @@ x.com/kryptoklob/status/1836465350642466832
 // https://segfaultsecuritysolutions.com/investment-disclosures
 
 Segfault Security Solutions . Com - no spaces.
+
+// u guys seen this yet?
+
+// https://etherscan.io/idm?addresses=0x11e52c75998fe2e7928b191bfc5b25937ca16741,0xd8da6bf26964af9d7eed9e03e53415d37aa96045&type=1
