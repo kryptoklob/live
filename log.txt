@@ -990,3 +990,15 @@ Segfault Security Solutions . Com - no spaces.
 // https://etherscan.io/idm?addresses=0x11e52c75998fe2e7928b191bfc5b25937ca16741,0xd8da6bf26964af9d7eed9e03e53415d37aa96045&type=1
 
 // Aaaand WalletPhoneKeysKnifeContactStaffHeadphones GO!
+
+// but fist:
+
+// (Reminder: I LITERALLY NEVER tell friends what to buy, or to buy at all. Only invest what you can afford to lose; I don't even trade myself. I'm /just/ a blockchain developer. I DO NOT have the skills to trade.)
+[However, bitcoin isn't turing complete, and all evm chains are, so there's that.]
+
+// https://www.youtube.com/watch?v=bBC-nXj3Ng4
+
+// Literally educational content! Buuuuut if you're NEW to this - start with 3blue1brown's "But What is Bitcoin, Really?" video on YouTube. It covers the basics - the mathematical, computer science, game theory, networking, cryptoGRAPHIC basics - *incredibly well*.
+https://docs.flashbots.net/flashbots-protect/overview
+
+// just published 2 new articles on x AND on facebook substack soon dont wanna annoy the email recipients tho lolz so gonna wait on that.
