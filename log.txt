@@ -1051,6 +1051,4 @@ This workshop is from a "equip people with tools" perspective, rather than a "ho
 
 ?/ C:\Users\<YourUsername>\Documents\StarCraft II\Accounts\<AccountNumber>\Replays\
 
-// ln -s [target] [link_name]
-
-// /mnt/c/Users/Caleb/Documents/StarCraft II/Accounts
+// I <3 Computer Science.
