@@ -1,0 +1,58 @@
+﻿GFX  14:16:28.099 ====================================================================================================
+GFX  14:16:28.099 StarCraft II (B92440)
+GFX  14:16:28.099 
+GFX  14:16:28.099 Executable              D:\StarCraft II\Versions\Base92440\SC2_x64.exe
+GFX  14:16:28.099 <Parameters>            -sso=1 -launch -uid s2
+GFX  14:16:28.099 Parent Executable       \Device\HarddiskVolume5\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  14:16:28.099 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  14:16:28.099 LocalTime               2024-08-10 14:16:28.100
+GFX  14:16:28.099 <ComputerUser>          Caleb
+GFX  14:16:28.099 <ComputerName>          CORUSCANT
+GFX  14:16:28.099 <Exe.Architecture>      x86_64
+GFX  14:16:28.099 <Version>               5.0.13.92440
+GFX  14:16:28.099 <DataBuild>             B92440
+GFX  14:16:28.099 <CodeBranch>            branches/SC2.5.0.a
+GFX  14:16:28.099 <CodeRevision>          650510
+GFX  14:16:28.099 <Locale.Assets>         enUS
+GFX  14:16:28.099 <Locale.Data>           enUS
+GFX  14:16:28.099 <Locale.Install>        enUS
+GFX  14:16:28.099 <AccountCountry>        
+GFX  14:16:28.099 <AgentVersion>          2.35.4.8806
+GFX  14:16:28.099 ====================================================================================================
+GFX  14:16:28.099 DXGI: Available
+GFX  14:16:28.302 Resource Cache Override Variable: 0MB
+GFX  14:16:28.302 Resource Cache: 2048MB Win64 (65457MB Physical, 71020MB Process Virtual)
+GFX  14:16:28.302 Resource Cache Sound:  204MB 
+GFX  14:16:28.302 Resource Cache Common: 1843MB 
+GFX  14:16:28.302 Resource Cache VRam:   0MB
+GFX  14:16:28.324 Selected display mode 1600x1200x60 with format D3DFMT_X8R8G8B8 and error delta 40
+GFX  14:16:28.325 Adapter [0]: NVIDIA GeForce RTX 4090 (VendorID 0x10de DeviceID 0x2684)
+GFX  14:16:28.325 Adapter [1]: NVIDIA GeForce RTX 4090 (VendorID 0x10de DeviceID 0x2684)
+GFX  14:16:28.325 Attempting CreateDevice on adapter [0] (VendorID 0x10de DeviceID 0x2684)
+GFX  14:16:29.086 CreateDevice succeeded
+GFX  14:16:29.087 Using adapter [0]
+GFX  14:16:29.087 Floating point render targets supported.
+GFX  14:16:29.089 DXGI Adapter Name: NVIDIA GeForce RTX 4090
+GFX  14:16:29.089 VRAM Detected: Dedicated [24142MB] Shared [32728MB] (DXGI)
+GFX  14:16:29.089 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  14:16:29.089 Initialized D3D9 GraphicsDevice: NVIDIA GeForce RTX 4090 (Driver Version: 32.0.15.6070, VRAM: 24142MB, SVMEM: 32728MB).
+GFX  14:16:29.130 Selected display mode 1600x1200x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:29.131 Hardware Depth Sampling: Available
+GFX  14:16:29.131 VRAM texture space: 2048MB
+GFX  14:16:30.365 PerfNotifiers initialized
+GFX  14:16:30.645 Selected display mode 1600x1200x60 with format D3DFMT_X8R8G8B8 and error delta 40
+GFX  14:16:30.645 Lost D3D9 device
+GFX  14:16:30.761 
+GFX  14:16:30.761 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:17:12.030 Selected display mode 1600x1200x60 with format D3DFMT_X8R8G8B8 and error delta 40
+GFX  14:17:12.030 DirectX call  failed with error code -2005530519
+GFX  14:17:12.030 Lost D3D9 device
+GFX  14:17:12.784 
+GFX  14:17:12.784 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:17:35.210 Selected display mode 1600x1200x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:17:35.210 Lost D3D9 device
+GFX  14:17:35.402 
+GFX  14:17:35.402 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:17:35.402 Lost D3D9 device
+GFX  14:17:35.556 
+GFX  14:17:35.556 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
