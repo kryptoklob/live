@@ -1064,3 +1064,9 @@ This workshop is from a "equip people with tools" perspective, rather than a "ho
 // echo "Text to append" >> filename.txt
 
 // sc2 replay sent out, drone footage time.
+
+// remember to listen to music when typing your ssh passwords. 
+
+// especially when out of the country.
+
+// You can probably figure out why.
