@@ -1020,3 +1020,31 @@ Reminder that I will be suing him for libel.
 Fuck. I hope you guys get it by now.
 
 https://kryptoklob.io
+
+// no seriously go fork https://github.com/kryptoklob/live
+
+// (author: klob.eth || Caleb Ditchfield || Segfault Security Solutions, LLC)
+
+|notes-on-boundaries
+boundary: definition
+(source: oxford languages via google)
+a line that marks the limits of an area; a dividing line
+a limit of a subject or sphere of activity.
+boundary: definition
+(source: myself)
+a limit that you set for yourself that defines how you interact with yourself, others, and your environment
+practicing boundaries
+I was going to trial a "practicing boundaries" workshop at a recent regional burn, but the stress of moving to Oakland from Brisbane (CA) made me want to leave the burn early; I didn't get to try it out then.
+LessOnline|SummerCamp|Manifest (hereafter: any combination of one syllable of each, such as LessCampiFest) was where I was going to try this out next, but I had an ah, adverse reaction, to going cold-turkey on some anti-anxiety meds my psychiatrist prescribed me, and/or magnesium-poisoning, because I was dumb and didn't pre-research the med this time like I almost always do. (anxiety is AWFUL guys, do not recommend).
+So before I move to the Oakland Library to finish this post, I'm just going to post the 2-minute pitch, along with commentary, copy-pasted from a group chat with some friends a month or two ago:
+'s some of the practice exercises I've been brainstorming:Workshop: Practicing the Art of Boundary Holding (+ consent, perhaps, but I think holding boundaries is what my (especially women) friends need some practice in!)Here's the pitch: Without some amount of dedicated (or unintentional) practice, it can be really hard to know when a boundary is being crossed, especially in a long term relationship, especially when your partner may not be friends with any of your friends. If you're not paying attention to it, boundary crossing can happen right beneath your nose! When you eventually discover that a boundary has been crossed, it can be really hard to get back in the practice of re-establishing it and re-inforcing it, especially if the boundary-crosser isn't helping you to build the boundary back up. Even worse - if the boundary crosser is constantly pestering you to move the boundary, tear it down a little here and there, and is generally working against your Firm And Healthy Boundaries Coalition? Welldamn.You're in for a tough one.And that's why we're gonna beat it into you!With PRACTICE. and EXERCISES.--- General format would be like 15-20 minutes presentation, data supported (I need to find research papers on boundaries and mental health and all that shit - I'm sure they exist) for the first part And then breakout groups (if enough people) or just group exercises (if likes 6 or less) forpractice.Here
+DONT INTERRUPT ME YOU TWAT Caleb is going to have a conversation where he talks to you about a computer science thing, and you explain your current knowledge of it to him. He's a meanie though, and thinks that you're a dummy; he's going to interrupt you constantly to correct you about how that's "not REALLY how that works...". Your goal is to call him out, firmly, every. Single. Time. He does it. 60 seconds - go.(Possible aftercare here needed in the form of hugs and reassurance, lol, for our more meek friends) If desired, the workshop participant, when they've had enough, can loudly exclaim DON'T INTERRUPT ME YOU TWAT and that particular session will be completed.
+I KNOW IM NEW HERE BUT THATS A LIL CREEPY MAN - Group format. Find an activity, perhaps Skull or small card/board game etc to take up time and attention of participants. Host (and potentially a planted helper) are in the know here.The group is told "We're going to play a game. If you see anyone being a lil creepy, call it out and we can discuss! It's important to call out things that seem weird, especially in groups, because the bystander effects means weird shit gets normalized WAY too fast, especially when exhibited by those that appear to be in positions of power and respect."Host (me) will make several obvious feints towards creepy behavior; the plant will do subtly creepy things until called out or until time is called.
+That's about as far as I got on my 2 mile walk; I'm curious to hear if you guys have done this, attended one, or have any advice!
+I had this idea because I keep seeing my women-friends out here get in relationships with people that sometimes turn out to be gasp not good at controlling their egos and/or emotions, and their lack of boundary-practice causing them to get hurt and/or strung along WAY more than they could have avoided.
+And it sucks to see. So maybe I help equip em?
+That's the general thesis.
+Can also frame this as "practice standing up for yourself" but I think that's harder to stomach, and incorporating the concept of boundaries (vs rules) is pretty important (to avoid the "well MY boundary is that you don't have sex with anyone else that has a dick lolol" kinda thing)
+I like the interruptions one, but I think it needs more. It's far too small-timescale; if this was like, a weekend con, I'd make it into a game like Humans vs Zombies (HvZ) where you played it the whole weekend, and every time you called out the INTERRUPTING TWAT you'd get a point, and hopefully this social-reward-dopamine-reinforcing system gives you enough of a good mental boost for that kind of standing-up-for-yourself-and-your-boundaries activity that you continue to try to do these kinds of things in your day to day life.
+That "small fun workshop which sticks in your mind because it was Weird and Fun and Kind of Nerve Wracking" and helps you start little habits and practices that balloon into you being a happier, higher agency, more confident person kind of thing is what I'm aiming for; I feel like these kinds of workshops (and the examples Ye Kinky Burny Folk held for us) were pretty critical in us (us = me and Atlanta burn / postgrad & grad students in the 2nd major polycule I've been in, though that is a little hard to define) being on the right path early on.
+This workshop is from a "equip people with tools" perspective, rather than a "how to call out behaviour in others" perspective, though both are of course viable.
