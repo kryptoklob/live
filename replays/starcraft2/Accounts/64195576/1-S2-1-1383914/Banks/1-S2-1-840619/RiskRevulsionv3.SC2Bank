@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="978127">
+        <Key name="87232">
+            <Value int="0"/>
+        </Key>
+        <Key name="642783">
+            <Value int="0"/>
+        </Key>
+        <Key name="76598">
+            <Value int="0"/>
+        </Key>
+        <Key name="87666">
+            <Value int="1"/>
+        </Key>
+        <Key name="43357">
+            <Value flag="0"/>
+        </Key>
+        <Key name="567124">
+            <Value int="0"/>
+        </Key>
+        <Key name="967458">
+            <Value int="0"/>
+        </Key>
+        <Key name="45689">
+            <Value int="0"/>
+        </Key>
+        <Key name="62378">
+            <Value int="0"/>
+        </Key>
+        <Key name="124511">
+            <Value int="0"/>
+        </Key>
+        <Key name="145234">
+            <Value int="0"/>
+        </Key>
+        <Key name="14366">
+            <Value int="0"/>
+        </Key>
+        <Key name="42346">
+            <Value int="1"/>
+        </Key>
+        <Key name="56756">
+            <Value int="0"/>
+        </Key>
+        <Key name="86342">
+            <Value int="0"/>
+        </Key>
+        <Key name="78865">
+            <Value int="1"/>
+        </Key>
+        <Key name="67365">
+            <Value int="1"/>
+        </Key>
+        <Key name="13634">
+            <Value int="0"/>
+        </Key>
+        <Key name="34645">
+            <Value int="1"/>
+        </Key>
+        <Key name="29474">
+            <Value int="1"/>
+        </Key>
+        <Key name="04704">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="328977">
+        <Key name="9856412">
+            <Value int="0"/>
+        </Key>
+        <Key name="23214">
+            <Value int="27"/>
+        </Key>
+        <Key name="98541">
+            <Value int="0"/>
+        </Key>
+        <Key name="45762">
+            <Value string="klob"/>
+        </Key>
+        <Key name="269664">
+            <Value int="999"/>
+        </Key>
+        <Key name="25715">
+            <Value int="25"/>
+        </Key>
+        <Key name="16223">
+            <Value int="0"/>
+        </Key>
+        <Key name="98635">
+            <Value int="25"/>
+        </Key>
+        <Key name="65326">
+            <Value int="27"/>
+        </Key>
+        <Key name="126395">
+            <Value int="999"/>
+        </Key>
+        <Key name="13495">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="2002E8E095D018BDB814E13F1DE88C31573D6B54"/>
+</Bank>
