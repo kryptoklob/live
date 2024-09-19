@@ -1052,3 +1052,13 @@ This workshop is from a "equip people with tools" perspective, rather than a "ho
 ?/ C:\Users\<YourUsername>\Documents\StarCraft II\Accounts\<AccountNumber>\Replays\
 
 // I <3 Computer Science.
+
+// how to append to file
+
+< too many lines >
+
+// i mean wsl, sorry when im short like this i almost always mean ubutnu
+
+< perfect response >
+
+// echo "Text to append" >> filename.txt
