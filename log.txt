@@ -1062,3 +1062,5 @@ This workshop is from a "equip people with tools" perspective, rather than a "ho
 < perfect response >
 
 // echo "Text to append" >> filename.txt
+
+// sc2 replay sent out, drone footage time.
