@@ -1051,36 +1051,4 @@ This workshop is from a "equip people with tools" perspective, rather than a "ho
 
 ?/ C:\Users\<YourUsername>\Documents\StarCraft II\Accounts\<AccountNumber>\Replays\
 
-// ln -s [target] [link_name]
-
-// /mnt/c/Users/Caleb/Documents/StarCraft II/Accounts
-
-// lol it didn't follow thru sec
-
-// > how do I make git follow a symlink?
-
-// Git does not follow symbolic links by default; it simply tracks the link itself rather than the files or directories it points to. To make Git "follow" a symlink (i.e., to track the contents of the linked directory or file), you have a few options, though none are straightforward due to Git's inherent behavior.
-
-Options:
-Manually Replace the Symlink with Actual Files:
-
-Replace the symlink in your working directory with the actual files or directories.
-Commit these actual files to your Git repository.
-Drawback: This approach breaks the dynamic linking, meaning updates to the original target won't automatically reflect in your repo
-
-> cmon yhou know me
-
-ChatGPT Memory Updated
-
-> Caleb prefers direct, streamlined solutions tailored to his expertise level, particularly avoiding overly complex or maintenance-heavy approaches when dealing with version control or similar tasks.
-
-
-!!!!!
-
-// not gonna take the suggestion tho.
-// rsycning a commit hook?
-// hmmmmmmmmm
-// wouldn'd allow that for solidity stuff.
-
-// 2.5bn protected. Fei Labs. Tribe DAO.
-// That was me. (Go look at my github history.)
+// I <3 Computer Science.
