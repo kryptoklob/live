@@ -1048,3 +1048,9 @@ Can also frame this as "practice standing up for yourself" but I think that's ha
 I like the interruptions one, but I think it needs more. It's far too small-timescale; if this was like, a weekend con, I'd make it into a game like Humans vs Zombies (HvZ) where you played it the whole weekend, and every time you called out the INTERRUPTING TWAT you'd get a point, and hopefully this social-reward-dopamine-reinforcing system gives you enough of a good mental boost for that kind of standing-up-for-yourself-and-your-boundaries activity that you continue to try to do these kinds of things in your day to day life.
 That "small fun workshop which sticks in your mind because it was Weird and Fun and Kind of Nerve Wracking" and helps you start little habits and practices that balloon into you being a happier, higher agency, more confident person kind of thing is what I'm aiming for; I feel like these kinds of workshops (and the examples Ye Kinky Burny Folk held for us) were pretty critical in us (us = me and Atlanta burn / postgrad & grad students in the 2nd major polycule I've been in, though that is a little hard to define) being on the right path early on.
 This workshop is from a "equip people with tools" perspective, rather than a "how to call out behaviour in others" perspective, though both are of course viable.
+
+?/ C:\Users\<YourUsername>\Documents\StarCraft II\Accounts\<AccountNumber>\Replays\
+
+// ln -s [target] [link_name]
+
+// /mnt/c/Users/Caleb/Documents/StarCraft II/Accounts
