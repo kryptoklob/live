@@ -1070,3 +1070,13 @@ This workshop is from a "equip people with tools" perspective, rather than a "ho
 // especially when out of the country.
 
 // You can probably figure out why.
+
+// can't have a `sudo htop` running while i'm out of the house, NOW CAN I 
+
+// THAT MAKE IT EASY TO HACK ME
+
+// LMFAO
+
+// LOL.
+
+// I <3 Computer Science
