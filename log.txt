@@ -1079,4 +1079,14 @@ This workshop is from a "equip people with tools" perspective, rather than a "ho
 
 // LOL.
 
+// uploading approx 25gB (bytes not bits) of footage.
+
+// eta was what, 24 minutes?
+
+// its probably capped by the 
+
+(going by feel here - this is ABOSLUTELY not a tb3/4 cable lolz)
+
+// it's definitely capped by the cable's transfer speed.
+
 // I <3 Computer Science
